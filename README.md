@@ -1,3 +1,3 @@
 # Basic-Hotel-Management-System
 
-This was written in Winter sem of 2017. The code needs to be a bit re-arranged
+I made this mini project during my 2nd semester at VIT in early 2018. It uses arrays and queues to simulate a hotel room booking usecase!
